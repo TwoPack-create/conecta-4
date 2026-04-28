@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Conecta FCFM",
+    "slug": "conecta-fcfm",
+    "scheme": "conectafcfm",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-secure-store"],
+    "ios": {"supportsTablet": true},
+    "android": {"package": "cl.conecta.fcfm"}
+  }
+}
